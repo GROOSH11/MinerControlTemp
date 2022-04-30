@@ -1,0 +1,2 @@
+# MinerControlTemp
+MinerControl
